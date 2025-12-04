@@ -8,8 +8,8 @@ info:
 servers:
   - url: http://localhost:8080
     description: Local Development Server
-  # - url: https://your-render-url.onrender.com
-  #   description: Live Backend (Render Deployment)
+  - url: https://almalane-backend.onrender.com/
+  - description: Live Backend (Render Deployment)
 
 tags:
   - name: Products
